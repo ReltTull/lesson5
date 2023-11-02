@@ -1,2 +1,2 @@
 # lesson5
-См. папку "homework"
+См. папку examples - homework.
